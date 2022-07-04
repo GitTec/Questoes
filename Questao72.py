@@ -1,8 +1,8 @@
 #Um médico deve fazer uma lista de todas as doenças que ele diagnosticou no dia, crie um agoritmo pra isso
 
-print("*"*30)
+print("*"*40)
 print("RELAÇAO DE DOENÇAS")
-print("*"*30)
+print("*"*40)
 
 doencas=[] #AQUI DENTRO VAI FICAR A LISTA DAS DOENÇAS
 while True:
